@@ -41,6 +41,6 @@ No mueve el mouse ni simula teclas — trabaja directamente con Windows.
 
 ---
 
-## Desinstalar
+# Desinstalar
 
 Elimina el archivo `mantener_activo.bat` de la carpeta `shell:startup` y borra los dos archivos descargados.
